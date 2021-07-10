@@ -2,4 +2,4 @@
 - 👀 I’m interested in Learning about everything possible. 👀
 - 🌱 I’m currently learning everything possible
 - 💞️ I’m looking to collaborate on anything possible
-- 📫 How to reach me ...<a href="https://web.facebook.com/matthew.wisdom.923/">Facebook</a><br>|<a href="mailto:matthewwisdom11@gmail.com">Email</a>|<a href="https://wa.link/cq67zk">Whatsapp</a>
+- 📫 How to reach me ...<a href="https://web.facebook.com/matthew.wisdom.923/">Facebook</a>|<a href="mailto:matthewwisdom11@gmail.com">Email</a>|<a href="https://wa.link/cq67zk">Whatsapp</a>
