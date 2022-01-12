@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Matthew Wisdom (@cRyp70s). I'm a full stack developer.
 - 📫 How to reach me: <a href="https://web.facebook.com/matthew.wisdom.923/">Facebook</a> | <a href="mailto:matthewwisdom11@gmail.com">Email</a> | <a href="https://wa.link/cq67zk">Whatsapp</a>
-- I also make vector artworks with inkscape. Check out my portfolio at <a href="https://inkscape.org/~cryaton111/resources/">Inkscape</a> | <a href="https://www.deviantart.com/cryaton">Deviant Art</a>
+- I also make vector artworks with inkscape. Check out my portfolio at <a href="https://inkscape.org/~cryaton111/resources/">Inkscape</a>
