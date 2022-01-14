@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Matthew Wisdom (@cRyp70s). I'm a full stack developer.
+- 👋 Hi, I’m Matthew Wisdom (@cRyp70s). I'm a software and web developer.
 - 📫 How to reach me: <a href="https://web.facebook.com/matthew.wisdom.923/">Facebook</a> | <a href="mailto:matthewwisdom11@gmail.com">Email</a> | <a href="https://wa.link/cq67zk">Whatsapp</a>
