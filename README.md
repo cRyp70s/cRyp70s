@@ -30,6 +30,6 @@
 
 <h1>
   Hello, I'm Wisdom
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30"/>
 </h1>
 <hr />
