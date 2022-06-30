@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif?cid=6c09b952ae58354738768c21a6587a46e6567a249807a6cc&rid=giphy.gif&ct=g" width="120" alt="Developer coding gif"/>
+  <img src="https://media4.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif?cid=6c09b952ae58354738768c21a6587a46e6567a249807a6cc&rid=giphy.gif&ct=g" width="100" height="100" alt="Developer coding gif"/>
 </div>
 
 <div id="badges" align="center">
@@ -18,11 +18,9 @@
 
 </div>
 <div align="center">
-<a href="mailto:matthewwisdom11@gmail.com">
+  <a href="mailto:matthewwisdom11@gmail.com">
     <img src="https://img.shields.io/badge/gmail-red?logo=gmail&logoColor=white" alt="Gmail Badge"/>
-</a>
-
-
+  </a>
 </div>
 
 
