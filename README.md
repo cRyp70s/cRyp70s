@@ -23,7 +23,7 @@
 </div>
 <br><br>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=cRyp70s&style=flat-square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=matt-wisdom&style=flat-square&color=blue" />
 </div>
 
 <h1>
@@ -67,6 +67,6 @@ with NLP being my main focus.
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLITE" width="40" height="40"/>&nbsp;
 </div>
 
-<!--- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cRyp70s&theme=dark&background=000000)](https://git.io/streak-stats) -->
+<!--- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=matt-wisdom&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cRyp70s)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matt-wisdom)](https://github.com/anuraghazra/github-readme-stats) -->
