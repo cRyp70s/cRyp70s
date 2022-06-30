@@ -23,7 +23,7 @@
 </div>
 <br><br>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=cR0s&style=flat-square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=cRyp70s&style=flat-square&color=blue" />
 </div>
 
 <h1>
@@ -34,10 +34,10 @@
 ---
 
 ### About Me  
-  
 I am a backend developer and AI/ML enthusiast.
 I love working on AI/ML and Data Science problems,
 with NLP being my main focus.
+
 ---
 
 ### Tools And Frameworks  
