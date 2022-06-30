@@ -3,9 +3,6 @@
 </div>
 <br>
 <div id="badges" align="center">
-  <a href="https://wa.link/cq67zk">
-    <img src="https://img.shields.io/badge/whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
-  </a>
   <a href="https://www.kaggle.com/matthewwisdom">
     <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
@@ -15,7 +12,9 @@
   <a href="https://www.linkedin.com/in/matthew-wisdom-91a5631bb">
     <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
+  <a href="https://wa.link/cq67zk">
+    <img src="https://img.shields.io/badge/whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+  </a>
 </div>
 <div align="center">
   <a href="mailto:matthewwisdom11@gmail.com">
@@ -35,11 +34,10 @@
 ---
 
 ### About Me  
-
+  
 I am a backend developer and AI/ML enthusiast.
 I love working on AI/ML and Data Science problems,
 with NLP being my main focus.
-
 ---
 
 ### Tools And Frameworks  
