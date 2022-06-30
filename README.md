@@ -15,10 +15,17 @@
   <a href="https://www.linkedin.com/in/matthew-wisdom-91a5631bb">
     <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:matthewwisdom11@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-red?logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
+
 </div>
+<div align="center">
+<a href="mailto:matthewwisdom11@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-red?logo=gmail&logoColor=white" alt="Gmail Badge"/>
+</a>
+
+
+</div>
+
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=cRyp70s&style=flat-square&color=blue" />
 </div>
