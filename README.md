@@ -1,4 +1,5 @@
 <div id="header" align="center">
+  ![Developer coding](https://media4.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif?cid=6c09b952ae58354738768c21a6587a46e6567a249807a6cc&rid=giphy.gif&ct=g)
   <img src="https://media4.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif?cid=6c09b952ae58354738768c21a6587a46e6567a249807a6cc&rid=giphy.gif&ct=g" width="100" height="100" alt="Developer coding gif"/>
 </div>
 
