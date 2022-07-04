@@ -35,8 +35,7 @@
 
 ### About Me  
 I am a backend developer and AI/ML enthusiast.
-I love working on AI/ML and Data Science problems,
-with NLP being my main focus.
+I love working on AI/ML and Data Science problems.
 
 ---
 
